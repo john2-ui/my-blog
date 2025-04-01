@@ -1,3 +1,9 @@
+---
+title:"MaxCount Problem"
+date:"2025-04-02"
+technology:["C++"]
+---
+
 # MaxCount Problem
 
 `#include <stdio.h>
