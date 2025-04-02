@@ -1,7 +1,7 @@
 ---
-title:"MaxCount Problem"
-date:"2025-04-02"
-technology:["C++"]
+title:MaxCount Problem
+date:2025-04-02
+technology:["C++","algorithm"]
 ---
 
 # MaxCount Problem
