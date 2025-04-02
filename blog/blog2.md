@@ -1,7 +1,10 @@
 ---
 title:blog2.md
 date:2025-04-02
-technology:["Next.js", "React", "TypeScript"]
+technology:
+  -React
+  -Next.js
+  -Typescript
 ---
 
 Hello world,I 'm trying to use the iamge
