@@ -1,6 +1,6 @@
 ---
-title:blog2.md
-date:2025-04-02
+title: blog2.md
+date: 2025-04-02
 technology:
   - React
   - Next.js
